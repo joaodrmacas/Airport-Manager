@@ -13,7 +13,8 @@
 * ### __a__ - Adds a new airport to the system.
 
 * ### __l__ - Prints all airports added to the system on the terminal.
-* ### __v__ - Adds a flight to the system or lists all of the added flights.
+  
+* ### __v__ - Adds a flight to the system or prints all of the added flights.
 
 * ### __p__ - Prints flights that depart from a certain airport.
 
@@ -33,4 +34,4 @@
 ---
 <p>
 
-### If you're looking to know more about each command parameter call, the assignment description folder inside this repo.
+### If you're looking to know more about each command parameter call, visit the assignment description folder inside this repo.
